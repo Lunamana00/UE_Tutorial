@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\testing.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\testing.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\testingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\testing">
+      <UniqueIdentifier>{1471AEA8-560C-35D9-998D-00AC3019D692}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\testing\lunamana.cpp">
+      <Filter>Source\testing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\testing\lunamana.h">
+      <Filter>Source\testing</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\testing\testing.Build.cs">
+      <Filter>Source\testing</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\testing\testing.cpp">
+      <Filter>Source\testing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\testing\testing.h">
+      <Filter>Source\testing</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\testing\testingCharacter.cpp">
+      <Filter>Source\testing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\testing\testingCharacter.h">
+      <Filter>Source\testing</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\testing\testingGameMode.cpp">
+      <Filter>Source\testing</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\testing\testingGameMode.h">
+      <Filter>Source\testing</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\git\\2024_2_get\\testing\\intermediate\\build\\win64\\unrealeditor\\inc\\testing\\uht\\testing.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\git\\2024_2_get\\testing\\intermediate\\build\\win64\\x64\\testingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\git\\2024_2_get\\testing\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testing\\definitions.testing.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
