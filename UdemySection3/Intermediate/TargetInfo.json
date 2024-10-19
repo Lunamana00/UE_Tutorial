@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UdemySection3",
+			"Path": "..\\Source\\UdemySection3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UdemySection3Editor",
+			"Path": "..\\Source\\UdemySection3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

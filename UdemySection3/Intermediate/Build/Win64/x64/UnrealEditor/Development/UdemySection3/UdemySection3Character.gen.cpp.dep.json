@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemysection3\\intermediate\\build\\win64\\unrealeditor\\inc\\udemysection3\\uht\\udemysection3character.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemysection3\\intermediate\\build\\win64\\x64\\udemysection3editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemysection3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\udemysection3\\definitions.udemysection3.h",
+            "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemysection3\\source\\udemysection3\\udemysection3character.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemysection3\\intermediate\\build\\win64\\unrealeditor\\inc\\udemysection3\\uht\\udemysection3character.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

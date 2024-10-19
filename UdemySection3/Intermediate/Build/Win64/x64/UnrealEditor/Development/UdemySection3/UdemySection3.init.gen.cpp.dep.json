@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemysection3\\intermediate\\build\\win64\\unrealeditor\\inc\\udemysection3\\uht\\udemysection3.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemysection3\\intermediate\\build\\win64\\x64\\udemysection3editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemysection3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\udemysection3\\definitions.udemysection3.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UdemySection3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UdemySection3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UdemySection3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UdemySection3">
+      <UniqueIdentifier>{05533634-2EB4-3BA3-A79F-7CE2C67518CC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UdemySection3\UdemySection3.Build.cs">
+      <Filter>Source\UdemySection3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UdemySection3\UdemySection3.cpp">
+      <Filter>Source\UdemySection3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UdemySection3\UdemySection3.h">
+      <Filter>Source\UdemySection3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UdemySection3\UdemySection3Character.cpp">
+      <Filter>Source\UdemySection3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UdemySection3\UdemySection3Character.h">
+      <Filter>Source\UdemySection3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UdemySection3\UdemySection3GameMode.cpp">
+      <Filter>Source\UdemySection3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UdemySection3\UdemySection3GameMode.h">
+      <Filter>Source\UdemySection3</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
