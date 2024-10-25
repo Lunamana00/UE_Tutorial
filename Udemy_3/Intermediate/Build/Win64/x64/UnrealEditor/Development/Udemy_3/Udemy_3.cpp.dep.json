@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemy_3\\source\\udemy_3\\udemy_3.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemy_3\\intermediate\\build\\win64\\x64\\udemy_3editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemy_3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\udemy_3\\definitions.udemy_3.h",
+            "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemy_3\\source\\udemy_3\\udemy_3.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

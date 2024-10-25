@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Udemy_3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Udemy_3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Udemy_3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Link to Source Assets.txt" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\Udemy_3">
+      <UniqueIdentifier>{D92A5EAE-A233-38F7-B966-9E437206BF5C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Udemy_3\Udemy_3.Build.cs">
+      <Filter>Source\Udemy_3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Udemy_3\Udemy_3.cpp">
+      <Filter>Source\Udemy_3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Udemy_3\Udemy_3.h">
+      <Filter>Source\Udemy_3</Filter>
+    </ClInclude>
+    <Filter Include="Source\Udemy_3\Private">
+      <UniqueIdentifier>{4FF20960-31CE-3086-89AA-CCB912B2ADBD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Udemy_3\Private\MovingPlatform.cpp">
+      <Filter>Source\Udemy_3\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Udemy_3\Public">
+      <UniqueIdentifier>{28093FA4-39B2-30B0-8149-5ABA8B85A9F0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Udemy_3\Public\MovingPlatform.h">
+      <Filter>Source\Udemy_3\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

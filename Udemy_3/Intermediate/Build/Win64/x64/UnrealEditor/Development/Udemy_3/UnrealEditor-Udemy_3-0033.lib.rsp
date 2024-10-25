@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Udemy_3-0033.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_3\Intermediate\Build\Win64\x64\Udemy_3Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_3\MovingPlatform.gen.cpp.obj"
+"C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_3\Udemy_3.init.gen.cpp.obj"
+"C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_3\Udemy_3.cpp.obj"
+"C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_3\MovingPlatform.cpp.obj"
+"C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_3\Default.rc2.res"
+/OUT:"C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_3\UnrealEditor-Udemy_3-0033.lib"
