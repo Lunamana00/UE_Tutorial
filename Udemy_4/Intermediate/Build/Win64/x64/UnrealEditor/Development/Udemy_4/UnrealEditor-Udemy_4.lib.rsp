@@ -7,6 +7,8 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\Udemy_4Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_4\Grabber.gen.cpp.obj"
+"C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_4\Mover.gen.cpp.obj"
 "C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_4\TP_PickUpComponent.gen.cpp.obj"
 "C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_4\TP_WeaponComponent.gen.cpp.obj"
 "C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_4\Udemy_4.init.gen.cpp.obj"
@@ -21,5 +23,7 @@
 "C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_4\Udemy_4GameMode.cpp.obj"
 "C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_4\Udemy_4PlayerController.cpp.obj"
 "C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_4\Udemy_4Projectile.cpp.obj"
+"C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_4\Grabber.cpp.obj"
+"C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_4\Mover.cpp.obj"
 "C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_4\Default.rc2.res"
 /OUT:"C:\Users\kth00\Documents\GitHub\UE_Tutorial\Udemy_4\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_4\UnrealEditor-Udemy_4.lib"

@@ -21,13 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeUdemy_4_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xF423414B,
-				0xE301C008,
+				0x16E363C5,
+				0xA1FC1EAE,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_Udemy_4.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_Udemy_4.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Udemy_4(Z_Construct_UPackage__Script_Udemy_4, TEXT("/Script/Udemy_4"), Z_Registration_Info_UPackage__Script_Udemy_4, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xF423414B, 0xE301C008));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Udemy_4(Z_Construct_UPackage__Script_Udemy_4, TEXT("/Script/Udemy_4"), Z_Registration_Info_UPackage__Script_Udemy_4, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x16E363C5, 0xA1FC1EAE));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

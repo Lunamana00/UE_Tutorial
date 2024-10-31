@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemy_4\\intermediate\\build\\win64\\unrealeditor\\inc\\udemy_4\\uht\\udemy_4projectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemy_4\\intermediate\\build\\win64\\x64\\udemy_4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemy_4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\udemy_4\\definitions.udemy_4.h",
+            "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemy_4\\source\\udemy_4\\udemy_4projectile.h",
+            "c:\\users\\kth00\\documents\\github\\ue_tutorial\\udemy_4\\intermediate\\build\\win64\\unrealeditor\\inc\\udemy_4\\uht\\udemy_4projectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

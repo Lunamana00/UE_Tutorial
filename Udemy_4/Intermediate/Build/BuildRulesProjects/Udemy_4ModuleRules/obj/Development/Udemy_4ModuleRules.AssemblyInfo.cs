@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Udemy_4ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1728ca90ffa36e7469a7236a132e811c0c16136f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e3f4c6a537a13c260bb493b1bc94462bf01d354")]
 [assembly: System.Reflection.AssemblyProductAttribute("Udemy_4ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Udemy_4ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

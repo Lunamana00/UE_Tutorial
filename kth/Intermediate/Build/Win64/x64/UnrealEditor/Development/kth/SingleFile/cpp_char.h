@@ -1,1 +1,0 @@
-#include "C:/Git/2024_2_GET/kth/Source/kth/cpp_char.h"

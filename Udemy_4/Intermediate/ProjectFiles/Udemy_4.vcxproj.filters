@@ -11,6 +11,8 @@
     <None Include="..\..\Source\Udemy_4Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +34,18 @@
     <Filter Include="Source\Udemy_4">
       <UniqueIdentifier>{97D13740-3228-363B-8404-426E07A44D3B}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Udemy_4\Grabber.cpp">
+      <Filter>Source\Udemy_4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Udemy_4\Grabber.h">
+      <Filter>Source\Udemy_4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Udemy_4\Mover.cpp">
+      <Filter>Source\Udemy_4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Udemy_4\Mover.h">
+      <Filter>Source\Udemy_4</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Udemy_4\TP_PickUpComponent.cpp">
       <Filter>Source\Udemy_4</Filter>
     </ClCompile>
