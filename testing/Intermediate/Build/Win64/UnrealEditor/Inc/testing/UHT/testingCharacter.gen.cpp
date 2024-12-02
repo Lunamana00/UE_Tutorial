@@ -171,14 +171,14 @@ AtestingCharacter::~AtestingCharacter() {}
 // End Class AtestingCharacter
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Git_2024_2_GET_testing_Source_testing_testingCharacter_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_kth00_Documents_GitHub_UE_Tutorial_testing_Source_testing_testingCharacter_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AtestingCharacter, AtestingCharacter::StaticClass, TEXT("AtestingCharacter"), &Z_Registration_Info_UClass_AtestingCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AtestingCharacter), 1332891002U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Git_2024_2_GET_testing_Source_testing_testingCharacter_h_240694352(TEXT("/Script/testing"),
-	Z_CompiledInDeferFile_FID_Git_2024_2_GET_testing_Source_testing_testingCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Git_2024_2_GET_testing_Source_testing_testingCharacter_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_kth00_Documents_GitHub_UE_Tutorial_testing_Source_testing_testingCharacter_h_240694352(TEXT("/Script/testing"),
+	Z_CompiledInDeferFile_FID_Users_kth00_Documents_GitHub_UE_Tutorial_testing_Source_testing_testingCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_kth00_Documents_GitHub_UE_Tutorial_testing_Source_testing_testingCharacter_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

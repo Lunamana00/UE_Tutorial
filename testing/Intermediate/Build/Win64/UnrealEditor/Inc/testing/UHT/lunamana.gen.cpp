@@ -77,14 +77,14 @@ Alunamana::~Alunamana() {}
 // End Class Alunamana
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Git_2024_2_GET_testing_Source_testing_lunamana_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_kth00_Documents_GitHub_UE_Tutorial_testing_Source_testing_lunamana_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_Alunamana, Alunamana::StaticClass, TEXT("Alunamana"), &Z_Registration_Info_UClass_Alunamana, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(Alunamana), 1366883287U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Git_2024_2_GET_testing_Source_testing_lunamana_h_2712558195(TEXT("/Script/testing"),
-	Z_CompiledInDeferFile_FID_Git_2024_2_GET_testing_Source_testing_lunamana_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Git_2024_2_GET_testing_Source_testing_lunamana_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_kth00_Documents_GitHub_UE_Tutorial_testing_Source_testing_lunamana_h_2712558195(TEXT("/Script/testing"),
+	Z_CompiledInDeferFile_FID_Users_kth00_Documents_GitHub_UE_Tutorial_testing_Source_testing_lunamana_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_kth00_Documents_GitHub_UE_Tutorial_testing_Source_testing_lunamana_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

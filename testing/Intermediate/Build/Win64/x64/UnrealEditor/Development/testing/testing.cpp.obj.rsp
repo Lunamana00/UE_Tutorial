@@ -1,11 +1,11 @@
-"C:\Git\2024_2_GET\testing\Source\testing\testing.cpp"
-/FI"C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\testingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\Definitions.testing.h"
-/Yu"C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\testingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\testingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\testing.cpp.obj"
-/sourceDependencies "C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\testing.cpp.dep.json"
-@"C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\testing.Shared.rsp"
+"C:\Users\kth00\Documents\GitHub\UE_Tutorial\testing\Source\testing\testing.cpp"
+/FI"C:\Users\kth00\Documents\GitHub\UE_Tutorial\testing\Intermediate\Build\Win64\x64\testingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\kth00\Documents\GitHub\UE_Tutorial\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\Definitions.testing.h"
+/Yu"C:\Users\kth00\Documents\GitHub\UE_Tutorial\testing\Intermediate\Build\Win64\x64\testingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\kth00\Documents\GitHub\UE_Tutorial\testing\Intermediate\Build\Win64\x64\testingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\kth00\Documents\GitHub\UE_Tutorial\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\testing.cpp.obj"
+/sourceDependencies "C:\Users\kth00\Documents\GitHub\UE_Tutorial\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\testing.cpp.dep.json"
+@"C:\Users\kth00\Documents\GitHub\UE_Tutorial\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\testing.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

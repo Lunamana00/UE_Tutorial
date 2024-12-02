@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Git\\2024_2_GET\\testing\\Source\\testing\\testing.Build.cs",
-		"C:\\Git\\2024_2_GET\\testing\\Source\\testing.Target.cs",
-		"C:\\Git\\2024_2_GET\\testing\\Source\\testingEditor.Target.cs"
+		"C:\\Users\\kth00\\Documents\\GitHub\\UE_Tutorial\\testing\\Source\\testing\\testing.Build.cs",
+		"C:\\Users\\kth00\\Documents\\GitHub\\UE_Tutorial\\testing\\Source\\testing.Target.cs",
+		"C:\\Users\\kth00\\Documents\\GitHub\\UE_Tutorial\\testing\\Source\\testingEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }

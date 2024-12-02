@@ -7,9 +7,11 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\testingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\lunamana.gen.cpp.obj"
 "C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\testing.init.gen.cpp.obj"
 "C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\testingCharacter.gen.cpp.obj"
 "C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\testingGameMode.gen.cpp.obj"
+"C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\lunamana.cpp.obj"
 "C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\testing.cpp.obj"
 "C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\testingCharacter.cpp.obj"
 "C:\Git\2024_2_GET\testing\Intermediate\Build\Win64\x64\UnrealEditor\Development\testing\testingGameMode.cpp.obj"
